@@ -21,4 +21,4 @@ end
 #  it 'should let the Warriors punch each other' do
 #    f = Fight.new(SpearWarrior.new("J"), SwordWarrior.new("L"))
 #  end
-end
+#end
